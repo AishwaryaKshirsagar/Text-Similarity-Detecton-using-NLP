@@ -1,4 +1,7 @@
 # Text-Similarity-Detecton-using-NLP
+
+## For a detailed explaination of the project. Please refer this link - https://docs.google.com/document/d/1cq_UiXKnWqe90lb5A60ZOrKDloo1XNQ3/edit?usp=sharing&ouid=106624957789776254669&rtpof=true&sd=true
+
 ### In this project, , I have demonstrated the implementation of the code and methods that I have used to find similarity between the texts in the two columns in an unsupervised manner. 
 
 * `Goal` → Text-Similarity-Detecton
