@@ -1,6 +1,6 @@
 # Text-Similarity-Detecton-using-NLP
 
-## Please visit my Portfolio page to get detailed explanation about this project - [My Portfolio](https://aishwaryakshirsagar.github.io/Portfolio_Website/post/chapter-6/)
+## Please visit my Portfolio page to get detailed explanation about this project - [Text_Similarity Detection](https://aishwaryakshirsagar.github.io/Portfolio_Website/post/chapter-6/)
 
 
 <!-- ## For a detailed explaination of the project. Please refer this link - https://docs.google.com/document/d/1cq_UiXKnWqe90lb5A60ZOrKDloo1XNQ3/edit?usp=sharing&ouid=106624957789776254669&rtpof=true&sd=true -->
