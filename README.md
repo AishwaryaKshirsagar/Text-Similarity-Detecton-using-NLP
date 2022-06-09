@@ -23,6 +23,7 @@ I opted for unsupervised way to get the results.
 Here I used Sentence Transformers-BERT sentence embeddings using Siamese BERT Network.
 
 <img src="https://miro.medium.com/max/1104/1*7A2tpPCmNFy3Ii5F9ZJj3w.png" width="700" height ="550"> 
+Bert is a self-attention model and does not use sequence to sequence aligned RNNs. Traditional Attention was used in combination with RNNs to improve their performance. Self-attention is used INSTEAD OF RNNs and they do a much better job and are also much faster. So in that sense they are pretty different.
 
 As the paragraph size was crossing the 510 token limit (512 - after starting and ending tokens are added) of typical Transformer BERT architecture.
 I tried to explore various things which could be used in order to reduce the text size without actually changing the meaning of the texts.
